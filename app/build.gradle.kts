@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "i26.bred"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "i26.bred"
